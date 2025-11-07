@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm S00R4J P49D3Y</h1>
+<h1 align="center">Hi 👋, I'm Sooraj Pandey</h1>
 <h3 align="center">A passionate self taught Backend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xnoncywer&label=Profile%20views&color=0e75b6&style=flat" alt="xnoncywer" /> </p>
